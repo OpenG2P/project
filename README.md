@@ -1,6 +1,6 @@
 # OpenG2P Project
 
-![](https://github.com/OpenG2P/openg2p-documentation/blob/1.0.0/.gitbook/assets/openg2p-logo-small.png)
+https://3485323518-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FxkdlCOLME2p03rS8nG8u%2Fuploads%2F9RLdK7QzOiYrD54i6Gy4%2FOpen%20G2P%20Horizontal%20Logo%402x.png?alt=media&token=e62d5151-69e6-42a5-8b4e-c84e1cc4673b
 
 OpenG2P is an open-source platform that enables governments and humanitarian organizations the ability to deliver critical benefits directly to those who need them. It facilitates the building of registries and delivery systems for social protection, while reducing exclusion. Its modular technology reuses and augments existing systems in countries, without discarding what works or starting from scratch.
 

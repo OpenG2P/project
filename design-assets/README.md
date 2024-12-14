@@ -1,4 +1,2 @@
 ## NOTICE
-*The design assets here are consumed by various internal websites. The assets have been tailored for HTML rendering. 
-DO NOT use these for any branding and communications. Neither should this be treated as official location for using logos
-and other artifacts of OpenG2P.*
+*The design assets provided here are specifically intended for use by internal websites and have been optimized for HTML rendering. They are **not** suitable for branding or communication purposes and should NOT BE USED as the official source for logos or other OpenG2P-related artifacts.*

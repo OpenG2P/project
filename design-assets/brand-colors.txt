@@ -1,0 +1,20 @@
+Brand colors
+
+Yellow: 
+#F5BB1A
+
+Black:
+#001167
+
+Orange:
+#F07B1A
+
+Magenta:
+#88498F
+
+Grey:
+#C4C4C4
+
+Light grey:
+#F6F6F6
+
